@@ -27,7 +27,7 @@
 </a>
 
 <a href="https://discord.gg/XspQwuvFwf">
-  <img src="http://invidget.switchblade.xyz/XspQwuvFwf" />
+  <img src="https://discord.com/api/guilds/884784334836498503/widget.json" />
 </a>
 
 <a href="https://github.com/arsd3v">
