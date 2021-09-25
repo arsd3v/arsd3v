@@ -26,8 +26,8 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=arsizi&layout=compact&theme=dark" />
 </a>
 
-<a href="https://discord.gg/GTveuZpBa4">
-  <img src="http://invidget.switchblade.xyz/GTveuZpBa4" />
+<a href="https://discord.gg/XspQwuvFwf">
+  <img src="http://invidget.switchblade.xyz/XspQwuvFwf" />
 </a>
 
 <a href="https://github.com/arsd3v">
