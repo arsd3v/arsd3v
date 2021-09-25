@@ -26,9 +26,11 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=arsizi&layout=compact&theme=dark" />
 </a>
 
+
+<a href="https://discord.gg/XspQwuvFwf">
+  <img src="https://discord.com/widget?id=884784334836498503&theme=dark" />
 </a>
-  <iframe src="https://discord.com/widget?id=884784334836498503&theme=dark"></iframe>
-</a>
+
 
 <a href="https://github.com/arsd3v">
  
