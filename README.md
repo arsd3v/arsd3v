@@ -26,7 +26,7 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=arsizi&layout=compact&theme=dark" />
 </a>
 
-<a href="https://discord.gg/XspQwuvFwf">
+<a href="https://discord.com/api/guilds/884784334836498503/widget.json">
   <img src="https://discord.com/api/guilds/884784334836498503/widget.json" />
 </a>
 
