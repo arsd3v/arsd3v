@@ -27,7 +27,7 @@
 </a>
 
 </a>
-  <iframe src="https://discord.com/widget?id=884784334836498503&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+  <iframe src="https://discord.com/widget?id=884784334836498503&theme=dark"></iframe>
 </a>
 
 <a href="https://github.com/arsd3v">
