@@ -26,9 +26,7 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=arsizi&layout=compact&theme=dark" />
 </a>
 
-<a href="https://discord.com/api/guilds/884784334836498503/widget.json">
-  <img src="https://discord.com/api/guilds/884784334836498503/widget.json" />
-</a>
+<iframe src="https://discord.com/widget?id=884784334836498503&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 
 <a href="https://github.com/arsd3v">
  
